@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "Summarize It All",
+  "name": "TL-DR",
   "version": "1.0",
-  "description": "Summarize It All is a Chrome extension that summarizes articles, posts and emails for you.",
+  "description": "TLDR is a Chrome extension that summarizes articles, posts and emails for you.",
   "permissions": [  
     "activeTab",
     "contextMenus"
